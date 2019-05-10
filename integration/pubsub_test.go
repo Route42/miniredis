@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/alicebob/miniredis"
+	"github.com/Route42/miniredis"
 )
 
 func TestSubscribe(t *testing.T) {

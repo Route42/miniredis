@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/alicebob/miniredis/server"
+	"github.com/Route42/miniredis/server"
 )
 
 // PubsubMessage is what gets broadcasted over pubsub channels.

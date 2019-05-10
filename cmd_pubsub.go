@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/alicebob/miniredis/server"
+	"github.com/Route42/miniredis/server"
 )
 
 // commandsPubsub handles all PUB/SUB operations.

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alicebob/miniredis/server"
+	"github.com/Route42/miniredis/server"
 )
 
 var (

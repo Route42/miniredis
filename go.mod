@@ -1,4 +1,4 @@
-module github.com/alicebob/miniredis
+module github.com/Route42/miniredis
 
 require (
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6

@@ -3,7 +3,7 @@ package miniredis_test
 import (
 	"time"
 
-	"github.com/alicebob/miniredis"
+	"github.com/Route42/miniredis"
 	"github.com/gomodule/redigo/redis"
 )
 

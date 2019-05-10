@@ -342,4 +342,4 @@ compares miniredis against a real redis instance.
 
 
 [![Build Status](https://travis-ci.org/alicebob/miniredis.svg?branch=master)](https://travis-ci.org/alicebob/miniredis)
-[![GoDoc](https://godoc.org/github.com/alicebob/miniredis?status.svg)](https://godoc.org/github.com/alicebob/miniredis)
+[![GoDoc](https://godoc.org/github.com/Route42/miniredis?status.svg)](https://godoc.org/github.com/Route42/miniredis)

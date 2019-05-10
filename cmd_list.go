@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alicebob/miniredis/server"
+	"github.com/Route42/miniredis/server"
 )
 
 type leftright int

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alicebob/miniredis"
+	"github.com/Route42/miniredis"
 )
 
 func TestEcho(t *testing.T) {
